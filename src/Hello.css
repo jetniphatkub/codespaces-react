@@ -1,0 +1,17 @@
+h1{
+    color:#000000;
+    background-color:magenta;
+}
+h1:hover{
+    color:#ffffff;
+    font-size:50px;
+}
+
+img{
+    border-radius:50%;
+    border:red solid 3px;
+    filter:drop-shawdow(8px 8px 10px gray);
+}
+img:hover{
+    width:200
+}
